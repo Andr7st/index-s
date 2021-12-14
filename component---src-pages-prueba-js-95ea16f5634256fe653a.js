@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[412],{8822:function(e,t,r){r.r(t);var a=r(7294);t.default=function(e){var t=e.location,r="Andr7st",l=new URLSearchParams(t.search);return l.get("id")&&(r=l.get("id")),a.createElement("div",null,a.createElement("h1",null,r))}}}]);
+//# sourceMappingURL=component---src-pages-prueba-js-95ea16f5634256fe653a.js.map
